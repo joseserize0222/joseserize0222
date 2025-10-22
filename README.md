@@ -8,11 +8,11 @@ val joseserize0222 = developer {
         description  = "Software Data and Technology student, powered by JetBrains. Passionate about math, data structures and competitive programming."
     }
     tech(
-        "Kotlin", 
+        "Kotlin",
+        "Java", 
         "C/C++", 
         "Python", 
-        "Java", 
-        @InProgress "Haskell"
+        "Haskell"
      )
     skills = listOf(
         "Applicative Math"
@@ -21,10 +21,10 @@ val joseserize0222 = developer {
         "Data Analysis", 
         "Problem solving", 
         "Competitive Programming", 
-        @InProgress "Plugin Development for IntelliJ Platform SDK"
+        "Plugin Development for IntelliJ Platform SDK"
     )
     links {
-        linkedin  = "www.linkedin.com/in/jose-carlos-serize-portela-ab0a1422b"
+        linkedin  = "www.linkedin.com/in/jose-carlos-serize-portela"
         telegram = "https://t.me/joseserize0222"
         codeforces = "https://codeforces.com/profile/jose0222"
     }
